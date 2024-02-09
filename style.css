@@ -1,3 +1,8 @@
 .serif {
     font-family: 'Noto Serif';
 }
+
+@font-face {
+    font-family: PWFicelles;
+    src: url(assets/Pwficelles-4Kv4.ttf);
+}
